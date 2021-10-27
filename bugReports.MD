@@ -4,7 +4,7 @@ If you think you’ve found a bug on freeCodeCamp, please follow these steps to 
 This will solve most of the issues if somehow you changed some code, that is affecting the challenge in some way.
 Resetting clears the code to its original state as if the challenge was first presented to you.
 
-2. If the page seems broken in any way, try to do a Hard Refresh(http://forum.freecodecamp.com/t/refresh-your-browser-cache/19365) of the page. 
+2. If the page seems broken in any way, try to do a Hard Refresh(<http://forum.freecodecamp.com/t/refresh-your-browser-cache/19365>) of the page. 
 This will update any old code that may have been cached in your browser.
 
 3. If your code crashes your browser, also try Clearing Your Browser’s Local Storage.
