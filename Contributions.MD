@@ -21,6 +21,11 @@ Here's some of the easiest ways you can help!
     
 4.  Generate curriculum for the freeCodeCamp community! 
     A full guide on how to contribute to the curriculum is here: https://contribute.freecodecamp.org/#/index?id=our-open-source-codebase
+    If you want to work on our coding challenges, that information is found here: https://contribute.freecodecamp.org/#/how-to-work-on-coding-challenges 
+    There is a contributors category on the forums, and there is also a contributors chatroom if you get stuck or want to bounce ideas off other developers.
     A brief summary is that you can either set up freeCodeCamp locally on your machine, or you can use Gitpod which is an online dev environment.
     Clicking this link will allow you to get started with a freeCodeCamp Gitpod that is pre-configured for you! https://gitpod.io/#https://github.com/freeCodeCamp/freeCodeCamp
+    
+    We even have practice projects set up here: https://contribute.freecodecamp.org/#/how-to-work-on-practice-projects so you can get used to using our tools and
+    how to structure the programs and coding challenges. This is a great place to start if you're interested in adding to our codebase!
     
