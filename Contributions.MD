@@ -1,4 +1,5 @@
 Thank you for your interest in contributing to FreeCodeCamp!
+Want to learn how to edit these documents? Please read here first: https://contribute.freecodecamp.org/#/how-to-work-on-the-docs-theme
 This is a brief guide simply to show you how easy it is to become a contributor!
 A more in depth resources are available at our website found here: https://contribute.freecodecamp.org/#/index
 
